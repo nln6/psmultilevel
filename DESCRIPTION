@@ -2,13 +2,13 @@ Package: psmultilevel
 Type: Package
 Title: Functions to estimate ATT/ ATE for clustered data using matching and weighting-based methods.
 Version: 0.1.0
-Author: person("Maggie N", "Nguyen", email = "nln6@stat.duke.edu", role = c("aut", "cre"))
-Maintainer: Maggie Nguyen <nln6@stat.duke.edu>
+Author: person("Maggie N", "Nguyen", email = "nln6@duke.edu", role = c("aut", "cre"))
+Maintainer: Maggie Nguyen <nln6@duke.edu>
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
-Depends: lme4
+Imports: lme4
 RdMacros: Rdpack
 RoxygenNote: 6.0.1
